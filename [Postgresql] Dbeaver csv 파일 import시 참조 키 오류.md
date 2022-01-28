@@ -12,6 +12,9 @@ django migrations을 끝내고 생긴 테이블을 모두 선택한다. (table/�
 ### 3. auto assign 클릭
 `select input objects`단계에서 `auto assign`클릭
 
+![](https://images.velog.io/images/anjaekk/post/6d74598f-2068-47ff-8676-42398d48c8d1/image.png)
+
+
 ### 4. 테이블 mapping
 자동으로 맵핑된 테이블 외 Source가 `<none>`으로 되어있는 클릭 후 데이터를 직접 선택해주도록 한다.
 
