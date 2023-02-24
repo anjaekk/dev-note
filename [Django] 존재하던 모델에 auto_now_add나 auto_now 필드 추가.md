@@ -10,10 +10,10 @@ You are trying to add the field 'created_at' with 'auto_now_add=True' to apptoke
 ```
 
 
-여기서 1번을 선택해 아래와 같이 현재 시점으로 입력이 가능하도록 한다.(다행히 나는 기존 모델에 데이터가 없었음)
+여기서 1번을 선택해 아래와 같이 나왔을 때 enter 누르면 현재 시점으로 적용 따로 default값을 넣어주고 싶으면 원하는 값 .(다행히 나는 기존 모델에 데이터가 없었음)
 
 ```
-[default: timezone.now] >>> timezone.now()
+[default: timezone.now] >>> 
 ```
 
 
